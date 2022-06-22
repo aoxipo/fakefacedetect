@@ -1,0 +1,24 @@
+Loss is:0.7921, Train Accuracy is:49.8350, Loss is0.7067, Test Accuracy is:50.1008, cost time:3.3500 min, EAT:331.6500
+Epoch 1/100
+----------
+Loss is:0.7690, Train Accuracy is:50.4600, Loss is0.6936, Test Accuracy is:50.0000, cost time:3.3500 min, EAT:328.3000
+Epoch 2/100
+----------
+Loss is:0.7670, Train Accuracy is:50.4600, Loss is0.6940, Test Accuracy is:50.0504, cost time:3.3167 min, EAT:321.7167
+Epoch 3/100
+----------
+Loss is:0.7664, Train Accuracy is:49.6400, Loss is0.6932, Test Accuracy is:50.2016, cost time:3.3167 min, EAT:318.4000
+Epoch 4/100
+----------
+Loss is:0.7654, Train Accuracy is:49.9700, Loss is0.6966, Test Accuracy is:50.0000, cost time:3.3333 min, EAT:316.6667
+Epoch 5/100
+----------
+Loss is:0.7649, Train Accuracy is:49.7500, Loss is0.6935, Test Accuracy is:47.7823, cost time:3.3167 min, EAT:311.7667
+Epoch 6/100
+----------
+Loss is:0.7650, Train Accuracy is:50.3200, Loss is0.7060, Test Accuracy is:50.0504, cost time:3.3000 min, EAT:306.9000
+Epoch 7/100
+----------
+Loss is:0.7639, Train Accuracy is:49.8250, Loss is0.6933, Test Accuracy is:49.7984, cost time:3.3333 min, EAT:306.6667
+Epoch 8/100
+----------e
